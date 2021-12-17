@@ -6,86 +6,71 @@ title: Jahan Penny-Dimri's CV
 Surgical Registrar, Data Scientist, Researcher.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">Google Scholar</a>
+<a href="jahan.penny-dimri@monash.edu">jahan.penny-dimri@monash.edu</a>
+| <a href="https://scholar.google.co.uk/citations?user=gc6ZX9MAAAAJ&hl=en&oi=ao">Google Scholar</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Completing my PhD translating and innovating upon the latest machine learning methods to improve surgical outcome, as well as working full time as sugical registrar in Geelong.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine Learning, Dealing with Missing Data, Surgical Outcomes.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019 - 2022`
+__Monash University, PhD__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Development of machine learning algorithms and web application platform (cardiac-ml.com) to predict and identify unique risk factors for postoperative outcomes after cardiac surgery.
 
-- Sizar
+`2014 - 2017`
+__Monash University, MBBS (Hons)__
 
-`1667 - death`
-__Trinity College, Cambridge__
 
-- Fellow
+`2012 - 2013`
+__Adelaide University, BSc (Hons)__
 
+- Honours research year that helped develop a novel model for a lentiviral gene therapy to treat the pulmonary complications of cystic fibrosis.
+
+`2007 - 2011`
+__Adelaide University, LLB (Hons)__
+
+
+`2007 - 2011`
+__Adelaide University, Diploma of Instrumental Music (Cello)__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2016`
+Best Research Paper Prize (Trainee), *Royal Australian College of Surgeons*
 
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+## Employment History and Academic Positions
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2020 - 2021`
+__Surgical Registrar__, Barwon Health
 
-`1669`
-Lectiones opticæ.
+`2019`
+__Surgical Resident__, Barwon Health
 
-etc. etc. etc.
+`2018`
+__Medical And Surgical Intern__, Ballarat Health Service
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2018 - now`
+__Adjunct Research Associate__, Monash University, Dept of Surgery
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2021 -->
 
 
