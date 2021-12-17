@@ -15,7 +15,7 @@ Surgical Registrar, Data Scientist, Researcher.
 
 Finishing my PhD translating and innovating machine learning methods to improve surgical outcomes while working full time as sugical registrar in Geelong.
 
-### Research interests
+## Research interests
 
 Machine Learning, Dealing with Missing Data, Surgical Outcomes.
 
