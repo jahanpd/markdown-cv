@@ -59,7 +59,7 @@ __Areas__: Machine Learning, Dealing with Missing Data, Surgical Outcomes.
 
 __H-index__: 9.0
 
-__Pulications__: Available [on Google Scholar](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
+__Pulications__: Available [on Google Scholar](http://scholar.google.co.uk/citations?user=gc6ZX9MAAAAJ)
 
 ## Leadership
 
