@@ -19,7 +19,7 @@ I am an practicing interdisciplinary clinician. My work involves solving complex
 ## Education
 
 `2019 - 2022`
-__Monash University, PhD__
+__Monash University__, PhD
 
 - Development of novel machine learning algorithms and web application platform (cardiac-ml.com) to predict and identify unique risk factors for postoperative outcomes after cardiac surgery.
 
@@ -39,19 +39,6 @@ __Adelaide University__, LLB (Hons)
 __Adelaide University__, Diploma of Instrumental Music (Cello)
 
 
-## Awards
-
-`2016`
-Best Research Paper Prize (Trainee), *Royal Australian College of Surgeons*
-
-## Research interests
-
-Machine Learning, Dealing with Missing Data, Surgical Outcomes.
-
-**H-index: 9.0**
-
-My publication record is available [on Google Scholar](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
-
 ## Employment History and Academic Positions
 
 `2020 - 2021`
@@ -66,6 +53,23 @@ __Medical And Surgical Intern__, Ballarat Health Service
 `2018 - now`
 __Adjunct Research Associate__, Monash University, Dept of Surgery
 
+## Research interests
+
+__Areas__: Machine Learning, Dealing with Missing Data, Surgical Outcomes.
+
+__H-index__: 9.0
+
+__Pulications__: Available [on Google Scholar](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
+
+## Leadership
+
+__Trident Research Cooperative__, Co-founder and Mentor
+- An organisation devoted to engaging and mentoring junior doctors and medical students in the process of medical research. We run annual research intensives where we lead participants through their own project from conception of an idea to publication. Through teamwork and a flat management structure, we are pround to have helped many students and new clinicians get published over the last 3 years. 
+
+## Awards
+
+`2016`
+Best Research Paper Prize (Trainee), *Royal Australian College of Surgeons*
 
 <!-- ### Footer
 
