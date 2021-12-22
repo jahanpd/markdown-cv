@@ -48,7 +48,7 @@ Best Research Paper Prize (Trainee), *Royal Australian College of Surgeons*
 
 Machine Learning, Dealing with Missing Data, Surgical Outcomes.
 
-*H-index: 9.0*
+**H-index: 9.0**
 
 My publication record is available [on Google Scholar](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
