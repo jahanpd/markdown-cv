@@ -14,14 +14,14 @@ Surgical Registrar, Data Scientist, Researcher.
 
 ## Personal Statement
 
-I am an practicing interdisciplinary clinician. My work involves solving complex surgical problems, managing my junior team to deliver the highest standard of patient care, and advancing my field by developing and applying novel machine learning models to assist surgical decision making.
+I am a practicing interdisciplinary clinician. My work involves solving complex surgical problems, managing my junior team to deliver the highest standard of patient care, and advancing my field by developing novel machine learning models to assist surgical decision making.
 
 ## Education
 
 `2019 - 2022`
 __Monash University__, PhD
 
-- Development of novel machine learning algorithms and web application platform (cardiac-ml.com) to predict and identify unique risk factors for postoperative outcomes after cardiac surgery.
+- Development of a novel machine learning approach and web application (cardiac-ml.com) to predict and identify unique risk factors for postoperative outcomes after cardiac surgery.
 
 `2014 - 2017`
 __Monash University__, MBBS (Hons)
@@ -29,7 +29,7 @@ __Monash University__, MBBS (Hons)
 `2012 - 2013`
 __Adelaide University__, BSc (Hons)
 
-- Honours research year that helped develop a novel model for a lentiviral gene therapy to treat the pulmonary complications of cystic fibrosis.
+- Honours research year that helped develop a model for a lentiviral gene therapy to treat the pulmonary complications of cystic fibrosis.
 
 `2007 - 2011`
 __Adelaide University__, LLB (Hons)
