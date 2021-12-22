@@ -14,7 +14,7 @@ Surgical Registrar, Data Scientist, Researcher.
 
 ## Personal Statement
 
-I am a practicing interdisciplinary clinician. My work involves solving complex surgical problems, managing my junior team to deliver the highest standard of patient care, and advancing my field by developing novel machine learning models to assist surgical decision making.
+I am a practicing interdisciplinary clinician. My work involves solving complex surgical problems, managing my junior team to deliver the highest standard of patient care, and advancing the field by developing novel machine learning models to assist surgical decision making.
 
 ## Education
 
@@ -61,15 +61,20 @@ __H-index__: 9.0
 
 __Pulications__: Available [on Google Scholar](http://scholar.google.co.uk/citations?user=gc6ZX9MAAAAJ)
 
-## Leadership
+## Extra-curricular Achievements
 
 __Trident Research Cooperative__, Co-founder and Mentor
 - An organisation devoted to engaging and mentoring junior doctors and medical students in the process of medical research. We run annual research intensives where we lead participants through their own project from conception of an idea to publication. Through teamwork and a flat management structure, we are pround to have helped many students and new clinicians get published over the last 3 years. 
+
+__Fencing__
+- Represented Australia in several World Cups and two Grands Prix while studying my undergraduate degrees.
+
 
 ## Awards
 
 `2016`
 Best Research Paper Prize (Trainee), *Royal Australian College of Surgeons*
+
 
 <!-- ### Footer
 
