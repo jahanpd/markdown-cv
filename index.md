@@ -39,7 +39,7 @@ __Adelaide University__, LLB (Hons)
 __Adelaide University__, Diploma of Instrumental Music (Cello)
 
 
-## Employment History and Academic Positions
+## Employment and Academic Positions
 
 `2020 - 2021`
 __Surgical Registrar__, Barwon Health
