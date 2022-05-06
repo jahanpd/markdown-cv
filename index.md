@@ -18,9 +18,11 @@ I am a practicing interdisciplinary clinician. My work involves solving complex 
 
 ## Leadership Experience
 
+`2020 - 2022`
 __Healthcare__, Clinical Leadership
 - As a surgical registrar I wear many hats. The most significant role, however, is to provide clinical leadership for my team of up to five junior doctors. I form the critical node between senior surgical expertise and the tactics to make patient care happen.
 
+`2019 - 2022`
 __Research__, Trident Co-founder and Group Leader
 - Working with small teams of medical students and junior doctors I provide leadership and guidance for clinical research. These projects range from applied machine learning in healthcare to answering interesting clinic questions.
 
