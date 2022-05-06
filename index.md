@@ -65,7 +65,7 @@ __Adjunct Research Associate__, Monash University, Dept of Surgery
 
 __Areas__: Machine Learning, Dealing with Missing Data, Surgical Outcomes.
 
-__H-index__: 9.0
+__H-index__: 10.0
 
 __Publications__: Available [on Google Scholar](http://scholar.google.co.uk/citations?user=gc6ZX9MAAAAJ)
 
