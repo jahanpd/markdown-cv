@@ -16,6 +16,14 @@ Surgical Registrar, Data Scientist, Researcher.
 
 I am a practicing interdisciplinary clinician. My work involves solving complex surgical problems, managing my junior team to deliver the highest standard of patient care, and advancing the field by developing novel machine learning models to assist surgical decision making.
 
+## Leadership Experience
+
+__Healthcare__, Clinical Leadership
+Explain leadership here.
+
+__Research__, Trident Co-founder and Group Leader
+Explain research here.
+
 ## Education
 
 `2019 - 2022`
@@ -78,6 +86,6 @@ Best Research Paper Prize (Trainee), *Royal Australian College of Surgeons*
 
 <!-- ### Footer
 
-Last updated: Dec 2021 -->
+Last updated: May 2022 -->
 
 
