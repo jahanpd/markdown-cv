@@ -3,7 +3,7 @@ layout: cv
 title: Jahan Penny-Dimri's CV
 ---
 # Jahan C. Penny-Dimri
-Surgical Registrar, Data Scientist, Researcher.
+Clinician, Scientist.
 
 <div id="webaddress">
 <a href="mailto: jahan.penny-dimri@monash.edu">jahan.penny-dimri@monash.edu</a>
@@ -13,8 +13,7 @@ Surgical Registrar, Data Scientist, Researcher.
 
 
 ## Personal Statement
-
-I am a practicing interdisciplinary clinician. My work involves solving complex surgical problems, managing my junior team to deliver the highest standard of patient care, and advancing the field by developing novel machine learning models to assist surgical decision making.
+As a clinician-scientist, my passion lies in using cutting-edge technology to understand and ultimately improve the health of our ageing population. My research focuses on the intersection of machine learning and self-organizing systems, with the ultimate goal of developing new principles of growth and ageing. By combining clinical expertise with the power of computational systems, I aim to advance our understanding of the dysfunction in self-organisation underlying aging and age-related diseases.
 
 ## Education
 
