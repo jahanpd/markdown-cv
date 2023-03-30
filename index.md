@@ -16,16 +16,6 @@ Surgical Registrar, Data Scientist, Researcher.
 
 I am a practicing interdisciplinary clinician. My work involves solving complex surgical problems, managing my junior team to deliver the highest standard of patient care, and advancing the field by developing novel machine learning models to assist surgical decision making.
 
-## Leadership Experience
-
-`2020 - 2022`
-__Healthcare__, Clinical Leadership
-- As a surgical registrar I wear many hats. The most significant role, however, is to provide clinical leadership for my team of up to five junior doctors. I form the critical node between senior surgical expertise and the tactics to make patient care happen.
-
-`2019 - 2022`
-__Research__, Trident Co-founder and Group Leader
-- Working with small teams of medical students and junior doctors I provide leadership and guidance for clinical research. These projects range from applied machine learning in healthcare to answering interesting clinic questions.
-
 ## Education
 
 `2019 - 2022`
@@ -63,11 +53,21 @@ __Medical And Surgical Intern__, Ballarat Health Service
 `2018 - now`
 __Adjunct Research Associate__, Monash University, Dept of Surgery
 
-## Research interests
+## Leadership Experience
 
-__Areas__: Machine Learning, Dealing with Missing Data, Surgical Outcomes.
+`2020 - 2022`
+__Healthcare__, Clinical Leadership
+- As a surgical registrar I wear many hats. The most significant role, however, is to provide clinical leadership for my team of up to five junior doctors. I form the critical node between senior surgical expertise and the tactics to make patient care happen.
 
-__H-index__: 10.0
+`2019 - 2022`
+__Research__, Trident Co-founder and Group Leader
+- Working with small teams of medical students and junior doctors I provide leadership and guidance for clinical research. These projects range from applied machine learning in healthcare to answering interesting clinic questions.
+
+## Research and Publications
+
+__Areas__: Machine Learning, Dealing with Missing Data, Clinical.
+
+__H-index__: 13.0
 
 __Publications__: Available [on Google Scholar](http://scholar.google.co.uk/citations?user=gc6ZX9MAAAAJ)
 
@@ -78,7 +78,6 @@ __Trident Research Cooperative__, Co-founder and Mentor
 
 __Fencing__
 - Represented Australia in several World Cups and two Grands Prix while studying my undergraduate degrees.
-
 
 ## Awards
 
