@@ -64,7 +64,7 @@ __Research__, Trident Co-founder and Group Leader
 
 ## Research and Publications
 
-__Areas__: Machine Learning, Dealing with Missing Data, Clinical.
+__Areas of Interest__: Machine Learning, Dealing with Missing Data, Self-organisation, Cellular Automata.
 
 __H-index__: 13.0
 
