@@ -69,7 +69,7 @@ __Areas of Interest__: Machine Learning, Dealing with Missing Data, Self-organis
 __H-index__: 13.0
 
 __Publications__: Available [on Google Scholar](http://scholar.google.co.uk/citations?user=gc6ZX9MAAAAJ)
-
+<div class="publist">
 - Fletcher, C. M., Hinton, J. V., Xing, Z., Perry, L. A., Karamesinis, A., Shi, J., Penny-Dimri, J. C., Ramson, D., Liu, Z., Smith, J. A., Segal, R., Coulson, T. G., & Bellomo, R. (2023). Platelet Transfusion After Cardiac Surgery. In Journal of Cardiothoracic and Vascular Anesthesia (Vol. 37, Issue 4, pp. 528–538). Elsevier BV. https://doi.org/10.1053/j.jvca.2022.12.009
 
 - Hinton, J. V., Xing, Z., Fletcher, C. M., Perry, L. A., Karamesinis, A., Shi, J., Ramson, D. M., Penny-Dimri, J. C., Liu, Z., Williams-Spence, J., Coulson, T. G., Smith, J. A., Segal, R., & Bellomo, R. (2023). Association of perioperative cryoprecipitate transfusion and mortality after cardiac surgery. In The Annals of Thoracic Surgery. Elsevier BV. https://doi.org/10.1016/j.athoracsur.2023.02.054
@@ -138,6 +138,7 @@ __Publications__: Available [on Google Scholar](http://scholar.google.co.uk/cita
 
 - Cmielewski, P., Farrow, N., Donnelley, M., McIntyre, C., Penny-Dimri, J., Kuchel, T., & Parsons, D. (2014). Transduction of ferret airway epithelia using a pre-treatment and lentiviral gene vector. In BMC Pulmonary Medicine (Vol. 14, Issue 1). Springer Science and Business Media LLC. https://doi.org/10.1186/1471-2466-14-183
 
+</div>
 
 ## Extra-curricular Achievements
 
