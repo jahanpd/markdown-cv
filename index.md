@@ -79,7 +79,7 @@ Wheatley, J., Liu, Z., Loth, J., Plummer, M. P., Penny‐Dimri, J. C., Segal, R.
  
 Khuong, J. N., Liu, Z., Campbell, R., Jackson, S. M., Borg Caruana, C., Ramson, D. M., Penny-Dimri, J. C., & Perry, L. A. (2022). Troponin as a predictor of outcomes in transcatheter aortic valve implantation: systematic review and meta-analysis. In General Thoracic and Cardiovascular Surgery (Vol. 71, Issue 1, pp. 12–19). Springer Science and Business Media LLC. https://doi.org/10.1007/s11748-022-01888-2
 
-- Hinton, J. V., Xing, Z., Fletcher, C. M., Perry, L. A., Karamesinis, A., Shi, J., Ramson, D. M., Penny-Dimri, J. C., Liu, Z., Coulson, T. G., Smith, J. A., Segal, R., & Bellomo, R. (2023). Cryoprecipitate Transfusion After Cardiac Surgery. In Heart, Lung and Circulation (Vol. 32, Issue 3, pp. 414–423). Elsevier BV. https://doi.org/10.1016/j.hlc.2022.11.007
+Hinton, J. V., Xing, Z., Fletcher, C. M., Perry, L. A., Karamesinis, A., Shi, J., Ramson, D. M., Penny-Dimri, J. C., Liu, Z., Coulson, T. G., Smith, J. A., Segal, R., & Bellomo, R. (2023). Cryoprecipitate Transfusion After Cardiac Surgery. In Heart, Lung and Circulation (Vol. 32, Issue 3, pp. 414–423). Elsevier BV. https://doi.org/10.1016/j.hlc.2022.11.007
 
 - Frentiu, A. A., Mao, K., Caruana, C. B., Raveendran, D., Perry, L. A., Penny-Dimri, J. C., Ramson, D. M., Segal, R., Bellomo, R., Smith, J. A., & Liu, Z. (2023). The Prognostic Significance of Red Cell Distribution Width in Cardiac Surgery: A Systematic Review and Meta-Analysis. In Journal of Cardiothoracic and Vascular Anesthesia (Vol. 37, Issue 3, pp. 471–479). Elsevier BV. https://doi.org/10.1053/j.jvca.2022.11.015
 
