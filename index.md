@@ -40,6 +40,9 @@ __Adelaide University__, Diploma of Instrumental Music (Cello)
 
 ## Employment and Academic Positions
 
+`2018 - now`
+__Adjunct Research Associate__, Monash University, Dept of Surgery
+
 `2020 - now`
 __Surgical Registrar__, Barwon Health
 
@@ -48,9 +51,6 @@ __Surgical Resident__, Barwon Health
 
 `2018`
 __Medical And Surgical Intern__, Ballarat Health Service
-
-`2018 - now`
-__Adjunct Research Associate__, Monash University, Dept of Surgery
 
 ## Leadership Experience
 
