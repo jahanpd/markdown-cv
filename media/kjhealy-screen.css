@@ -92,7 +92,7 @@ ul {
 }
 
 .publication {
-	margin-bottom: 100px; /* between paragraphs */
+	margin-bottom: 0.9em; /* between paragraphs */
 }
 
 /*uncomment to get dashes in the list*/
