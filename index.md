@@ -13,7 +13,7 @@ Clinician, Scientist.
 
 
 ## Personal Statement
-As a clinician-scientist, my passion lies in using cutting-edge technology to understand and ultimately improve the health of our ageing population. My research focuses on the intersection of machine learning and self-organizing systems, with the ultimate goal of developing new principles of growth and ageing. By combining clinical expertise with the power of computational systems, I aim to advance our understanding of the dysfunction in self-organisation underlying aging and age-related diseases.
+As a clinician-scientist, my passion lies in using cutting-edge technology to understand and ultimately improve the health of our ageing population. My current research focus exists at the intersection of machine learning and self-organizing systems, with the ultimate goal of developing new principles of growth and ageing. By combining clinical expertise with the power of computational systems, I aim to advance our understanding of the dysfunction in self-organisation underlying aging and age-related diseases.
 
 ## Education
 
